@@ -14,7 +14,7 @@ export default function AnimalButton({ type, selected, onPress }: Props) {
       onPress={onPress}
       style={[
         styles.button,
-        { backgroundColor: selected ? '#5B21B6' : '#8B5CF6' },
+        { backgroundColor: selected ? '#FFD700' : '#FDE68A'  },
       ]}
     >
       <FontAwesome5 name={type} size={24} color="#fff" style={{ marginBottom: 4 }} />

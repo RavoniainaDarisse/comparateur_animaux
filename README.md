@@ -20,6 +20,6 @@ Nom de l'extension : Simulateur téléphone mobile - test site responsive
 
 ## Capture de mon projet examen
 
-<img src="./capture/capture1ex.jpg" alt="Capture d'écran 1" width="400"/>
-<img src="./capture/capture2ex.jpg" alt="Capture d'écran 2" width="400"/>
-<img src="./capture/capture3ex.jpg" alt="Capture d'écran 3" width="400"/>
+<img src="./capture/m1.jpg" alt="Capture d'écran 1" width="400"/>
+<img src="./capture/m2.jpg" alt="Capture d'écran 2" width="400"/>
+<img src="./capture/m3.jpg" alt="Capture d'écran 3" width="400"/>
