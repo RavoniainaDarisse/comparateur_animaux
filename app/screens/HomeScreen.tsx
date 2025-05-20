@@ -74,7 +74,6 @@ function HomeScreen() {
           Choisissez votre animal préféré ci-dessous
         </Text>
 
-        {/* On peut garder ces boutons ici si tu veux, sinon tu peux commenter */}
         <View style={styles.buttonContainer}>
           <TouchableOpacity
             onPress={() => fetchAnimalImage('dog')}
@@ -143,7 +142,6 @@ function HomeScreen() {
         </View>
       </View>
 
-      {/* --- TAB BAR FIXE EN BAS --- */}
       <View style={styles.tabBar}>
         <TouchableOpacity
           style={styles.tabButton}
@@ -204,8 +202,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginBottom: 10,
     position: 'relative',
-    backgroundColor: '#8B5CF6', // couleur de fond ajoutée
-    paddingVertical: 10, // un peu de padding vertical pour que ça fasse propre
+    backgroundColor: '#8B5CF6', 
+    paddingVertical: 10,
     borderRadius: 8,
   },
   headerTitle: {
